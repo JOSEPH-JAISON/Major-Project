@@ -1,4 +1,4 @@
-# receiver side
+// receiver side
 
 #include <SPI.h>
 #include <LoRa.h>
@@ -145,7 +145,7 @@ void parseAndSendToThingSpeak(String data) {
 
 
 
-# Transmitter side
+// Transmitter side
 
 
 
